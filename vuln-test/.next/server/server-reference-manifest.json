@@ -1,0 +1,28 @@
+{
+  "node": {
+    "00c92224637c0c4aee8dd34f84332bc646887a5b79": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fk%2Fwork%2FNextjs_RCE_Exploit_Tool%2Fvuln-test%2Fapp%2Factions.js%22%2C%5B%5B%2200c92224637c0c4aee8dd34f84332bc646887a5b79%22%2C%22getData%22%5D%2C%5B%2240810a3e50a9b4ad7c6b340b15219f6190fbbd1d78%22%2C%22submitForm%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "40810a3e50a9b4ad7c6b340b15219f6190fbbd1d78": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fk%2Fwork%2FNextjs_RCE_Exploit_Tool%2Fvuln-test%2Fapp%2Factions.js%22%2C%5B%5B%2200c92224637c0c4aee8dd34f84332bc646887a5b79%22%2C%22getData%22%5D%2C%5B%2240810a3e50a9b4ad7c6b340b15219f6190fbbd1d78%22%2C%22submitForm%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "UOYV8c+pNQJp9qSL7fUxjBwx3MXlGYgQGFe+lwjjed0="
+}
